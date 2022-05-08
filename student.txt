@@ -1,0 +1,7 @@
+sggucci 5       Art
+ronaldo	1	BBa	
+messi	2	BBA	
+zlaatan	5	MBA	
+susan	6	Bsc		
+Alex	10	Bit	
+	
